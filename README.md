@@ -22,52 +22,25 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
+Curso NestJS
+Repositório voltado aos estudos em NestJs e Micro-Serviços 
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+- NestJS é um framework para desenvolvimento de aplicações backend Node.js. Atualmente, mesmo considerando a quantidade de excelentes bibliotecas e ferramentas existentes para Node.js, nenhuma delas resolve de forma efetiva o principal problema de uma aplicação javascript server-side: sua arquitetura. NestJS disponibiliza um conjunto de componentes arquiteturais, que possibilitam aos desenvolvedores a criação de aplicativos escaláveis, com baixo acoplamento e de fácil manutenção.
 
-## Installation
+- Neste curso, foi ensinado a combinar o uso do NestJS com serviços em Cloud, para viabilizar a entrega de uma API segura, robusta e escalável, que foi construída baseada no uso de Microservices, dentre os quais destacamos:
 
-```bash
-$ npm install
-```
+  - MongoDB Atlas: uso do MongoDB como serviço, deixando o gerenciamento do seu Cluster para quem conhece do assunto
+  - Amazon SES: notificar seus usuários com este serviço eficiente, escalável e de baixo custo
+  - RabbitMQ: Escalabilidade e resiliência para nosso backend, com este serviço de mensageria que iremos publicar na AWS
+  - Amazon Cognito: Entregamos a responsabilidade do processo de autenticação para este serviço seguro, escalável e de baixo custo
+  - Cloud Foundry: Publicamos nosso backend em uma infraestrutura auto-gerenciada e de baixo custo.
 
-## Running the app
+# O que Foi apendido ?
 
-```bash
-# development
-$ npm run start
+- Desenvolver aplicações Nodejs modernas, utilizando o framework NestJS em conjunto com serviços Cloud robustos e escaláveis
+- Aplicar na prática os conceitos de uma arquitetura orientada a eventos
+- Implementar microserviços fazendo uso do package Nest Microservices
+- Empregar escalabilidade e resiliência no backend, fazendo uso de um broker de mensagens
+- Entregar a responsabilidade do processo de autenticação para um serviço seguro, escalável e de baixo custo
 
-# watch mode
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
-```
-
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
+#Curso em andamento
