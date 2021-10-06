@@ -2,7 +2,7 @@
 /dist
 /node_modules
 /EntidadesExemplos
-passwd.tst
+passwd.txt
 # Logs
 logs
 *.log
