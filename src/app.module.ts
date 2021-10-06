@@ -4,7 +4,7 @@ import { JogadoresModule } from './jogadores/jogadores.module';
 
 @Module({
   imports: [
-    MongooseModule.forRoot('mongodb+srv://lucaspoletislinux:ZaK6K2LjQsV5uo6e@cluster0.obba6.mongodb.net/smartranking?retryWrites=true&w=majority',
+    MongooseModule.forRoot('mongodb+srv://lucaspoletislinux:< Não é a senha real >@cluster0.obba6.mongodb.net/smartranking?retryWrites=true&w=majority',
       {
         useNewUrlParser: true,
         useCreateIndex: true,
