@@ -1,8 +1,8 @@
 # compiled output
 /dist
 /node_modules
-/EntidadesExemplos
-passwd.txt
+/1EntidadesExemplos
+/2Passwds
 # Logs
 logs
 *.log
